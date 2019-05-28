@@ -14,3 +14,10 @@ section h1 {
 section p {
 	font: 16px 'Open Sans';
 }
+
+header h1 {
+  /*font-family: 'Lora', serif;*/
+  font-size: 50px;
+  color: #bbc085;
+  padding: 50px 0;
+}
